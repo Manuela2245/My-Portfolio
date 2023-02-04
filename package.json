@@ -16,6 +16,6 @@
     "react-touch-drag-slider": "^2.2.5",
     "react-youtube": "^10.1.0",
     "styled-components": "^5.3.0",
-    "styled-normalize": "^8.0.7",
+    "styled-normalize": "^8.0.7"
   }
 }
